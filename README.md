@@ -20,5 +20,9 @@ https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/oxforddata.
 Organisation
 -------------------------
 The src directory contains the source codes used to generate the outputs
-    The data directory contains the data used by the source codes
-    The out directory contains the outputs of the source codes
+
+
+The data directory contains the data used by the source codes
+    
+    
+The out directory contains the outputs of the source codes
